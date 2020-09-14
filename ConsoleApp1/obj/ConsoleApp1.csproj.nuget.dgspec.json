@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Oisin.Feeley\\Ush-Learning\\2020-Continuous-Ed\\Running Jenkins in Docker\\ConsoleApp1\\ConsoleApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Oisin.Feeley\\Ush-Learning\\2020-Continuous-Ed\\Running Jenkins in Docker\\ConsoleApp1\\ConsoleApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oisin.Feeley\\Ush-Learning\\2020-Continuous-Ed\\Running Jenkins in Docker\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\Oisin.Feeley\\Ush-Learning\\2020-Continuous-Ed\\Running Jenkins in Docker\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Oisin.Feeley\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oisin.Feeley\\Ush-Learning\\2020-Continuous-Ed\\Running Jenkins in Docker\\ConsoleApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oisin.Feeley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\.NET Core Desktop Libraries\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Oisin.Feeley\\Scratch\\TempNuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.wolterskluwer.ca/nuget/proxy-ifirm": {},
+          "https://nuget.wolterskluwer.ca/nuget/proxy-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/proxy-nuget2": {},
+          "https://nuget.wolterskluwer.ca/nuget/ush-test-feed": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-api-test-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-common-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-26.01.00-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-26.02.00-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-26.in.07-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-27.00.00-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-27.01.00-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-27.01.01-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-27.02.00-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-27.02.01-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-27.02.02-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-27.internal.06-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.00.00-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.00.01-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.01.00-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.02.00-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.03.00-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.in.06-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.in.07-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.internal.01-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.internal.02-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.internal.03-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.internal.04-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-28.internal.05-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-29.in.01-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-29.in.02-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-29.in.03-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-29.in.04-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-29.in.05-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-29.in.06-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-29.in.07-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-master-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-cumulus-official": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-desktop-apps-debug": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-desktop-apps-nopromotion": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-desktop-apps-official-debug": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-desktop-apps-official-release": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-desktop-apps-release": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-desktop-apps-temp": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-develop-taxprep.dashboard-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-engine-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-delivery-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-master-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-master-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-official-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-official-release-delivery-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-official-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2016-v5-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2016-v5-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2017-v5-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2017-v5-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2018-v5-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2018-v5-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v1-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v1-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v2-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v2-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v3-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v3-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v4-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v4-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v4.1-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v4.1-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v5-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t1-2019-v5-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20172-v0-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20172-v0-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20181-v1-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20181-v1-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20182-v1-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20182-v1-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20191-v1-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20191-v1-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20192-v2-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20192-v2-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20192-v3-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20192-v3-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20201-v0-beta1-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20201-v0-beta1-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20201-v0-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20201-v0-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20201-v1-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t2-20201-v1-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t3-2019-v3-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t3-2019-v3-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t3-2020-v1-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t3-2020-v1-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t3-2020-v2-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t3-2020-v2-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t3-2020-v2.1-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t3-2020-v2.1-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t3-2020-v3-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-t3-2020-v3-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2018-v5-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2018-v5-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2019-v1-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2019-v1-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2019-v2-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2019-v2-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2019-v3-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2019-v3-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2019-v4-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2019-v4-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2019-v5-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-fiscal-tf-2019-v5-release-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-ifirm-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-other-master-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-tax-sources-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-taxprep-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-taxprep.dashboard-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-taxtests-common": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-taxtests-develop-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-tmp-engine-tools-nuget": {},
+          "https://nuget.wolterskluwer.ca/nuget/wk-utilities-master-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
